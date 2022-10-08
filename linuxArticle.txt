@@ -1,3 +1,4 @@
 -----------
 How to Start X11 on Linux Without a Display Manager
 --------------
+GNOME 43 Lands With Major Linux Desktop UI, Device Security Enhancements
