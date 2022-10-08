@@ -4,3 +4,4 @@ How to Start X11 on Linux Without a Display Manager
 GNOME 43 Lands With Major Linux Desktop UI, Device Security Enhancements
 KDE Makes Play for Living Room With Plasma 5.26 Beta
 Fedora 37 Beta Gives Linux Devs Sneak Preview of Stable Release
+9 Hidden KDE Plasma Features You Probably Didn’t Know About
